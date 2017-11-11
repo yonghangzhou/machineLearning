@@ -1,4 +1,4 @@
-# <center> 神经网络入门
+# <center> 神经网络入门</center>
 <center> ![轮廓图](images/outline_neural network.png)</center>
 
 ## 一：简介
