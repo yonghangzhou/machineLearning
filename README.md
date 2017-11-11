@@ -1,3 +1,3 @@
 # machineLearning
 ## Test ##
-<center> ![](notes/images/outline_neural network.png)</center>
+<center> ![](notes/images/image_test.png)</center>
